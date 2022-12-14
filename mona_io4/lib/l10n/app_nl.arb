@@ -1,0 +1,63 @@
+{
+  "language": "Nederlands",
+
+  "museums": "Musea",
+  "downloads": "Downloads",
+  "chat": "Chatten",
+  "about": "Over",
+
+  "virtual_tour": "Virtuele tour",
+  "ar_game": "AR-spel",
+  "museums_error": "Fout bij ophalen van museumgegevens",
+
+  "download": "Download",
+  "read": "lees",
+  "loading_document": "Document laden",
+  "document_open_error": "Er is een fout opgetreden bij het openen van het document",
+  "downloads_error": "Er is een fout opgetreden bij het ophalen van documenten",
+
+  "chat_init_txt_1": "Samen de musea verkennen",
+  "chat_init_txt_2": "Maak of neem deel aan een chatroom om met anderen te chatten",
+  "chat_init_join_btn": "Deelnemen aan de chatroom",
+  "chat_init_create_btn": "Chatroom maken",
+
+  "chat_cj_username": "Gebruikersnaam",
+  "chat_cj_enter_ur_name": "Voer uw naam in",
+  "chat_cj_username_error1": "Gebruikersnaam mag niet leeg zijn",
+  "chat_cj_username_error2": "Naam mag niet meer dan 8 tekens lang zijn",
+
+  "chat_create_room_name": "Naam chatruimte",
+  "chat_create_enter_room_name": "Voer chatruimte naam in",
+  "chat_create_room_name_error1": "Kamernaam mag niet leeg zijn",
+  "chat_create_room_name_error2": "Kamernaam mag niet meer dan 12 tekens lang zijn",
+
+  "chat_create_btn": "Chatroom maken",
+  "chat_create_error": "Fout bij het maken van chatroom",
+
+  "chat_join_room_id": "Kamer-ID",
+  "chat_join_btn": "Deelnemen",
+
+  "chat_join_error1": "Ongeldige kamer-ID",
+  "chat_join_error2": "Er is geen chatroom gekoppeld aan de opgegeven kamer-ID",
+  "chat_join_error3": "Fout bij deelnemen aan chatroom",
+
+  "cancel": "annuleren",
+  "leave": "verlaten",
+  "delete": "verwijderen",
+  "chat_leave_room": "Chatroom verlaten?",
+  "chat_delete_room": "Chatroom verwijderen?",
+  "chat_deleted_by_creator": "Chatroom verwijderd",
+
+
+  "contact": "Contact",
+  "partners": "Partners",
+  "address": "Karditsis 1\nTrikala 421 31, Griekenland",
+  "mona_info": "MonA is het acronym van het Erasmus+ project KA201L: Museopedagogy and Augmented reality: Musea als educatieve ruimtes met code 2019-1-EL01-KA201-062965. Ons project is bedoeld om cultuur dichter bij het jongere publiek en vooral het schoolpubliek te brengen door het creëren van een geïntegreerd educatief programma dat wordt aangeboden in vier musea in Europa met behulp van moderne technologie met de nadruk op augmented en mixed reality.\n\nHet MonA-project hoopt bij te dragen aan een overrompelend, charmant en plezierig leerproces bij het schoolbezoek van het museum door experimenteren en spelen. De doelgroep zijn scholen, maar richt zich vooral op kinderen, tieners en leerkrachten in het gebied van de partners.\n\nHet consortium van het project bestaat uit 4 musea, 2 scholen, 2 universiteiten en 2 technische organisaties uit 4 Europese landen.",
+
+  "try_again": "Opnieuw proberen",
+
+
+  "ar_warning1": "• Vraag altijd een volwassene voordat je het AR-spel gaat spelen. Kijk tijdens het spelen uit voor andere mensen en wees je bewust van je omgeving.",
+  "ar_warning2": "• Ouders en leerkrachten opgelet: tijdens het spelen van een AR spel kan men het bewustzijn van de omgeving verliezen. Zorg ervoor dat de kinderen onder uw toezicht het AR-spel veilig spelen."
+
+}

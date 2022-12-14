@@ -1,0 +1,58 @@
+{
+  "language": "Italiano",
+
+  "museums": "Musei",
+  "downloads": "Downloads",
+  "chat": "Chat",
+  "about": "Informazioni",
+
+  "virtual_tour": "Tour virtuale",
+  "ar_game": "Gioco in AR",
+  "museums_error": "Errore nel recupero dei dati del museo",
+
+  "download": "Download",
+  "read": "Leggi",
+  "loading_document": "Caricamento del documento",
+  "document_open_error": "Si è verificato un errore durante l'apertura del documento",
+  "downloads_error": "Si è verificato un errore durante il recupero dei documenti",
+
+  "chat_init_txt_1": "Esplora i musei insieme",
+  "chat_init_txt_2": "Crea o unisciti a una chat room per chiacchierare con gli altri",
+  "chat_init_join_btn": "Entra nella chat",
+  "chat_init_create_btn": "Crea una chat",
+
+  "chat_cj_username": "Nome utente",
+  "chat_cj_enter_ur_name": "Inserisci il tuo nome",
+  "chat_cj_username_error1": "Il nome utente non può essere vuoto",
+  "chat_cj_username_error2": "Il nome non può essere più lungo di 8 caratteri",
+
+  "chat_create_room_name": "Nome della stanza",
+  "chat_create_enter_room_name": "Inserisci il nome della stanza",
+  "chat_create_room_name_error1": "Il nome della stanza non può essere vuoto",
+  "chat_create_room_name_error2": "Il nome della stanza non può essere più lungo di 12 caratteri",
+
+  "chat_create_btn": "Crea",
+  "chat_create_error": "Errore nella creazione della chat",
+
+  "chat_join_room_id": "ID della stanza",
+  "chat_join_btn": "Entra",
+
+  "chat_join_error1": "ID della stanza non valido",
+  "chat_join_error2": "Nessuna stanza chat è associata al dato ID della stanza",
+  "chat_join_error3": "Errore nell'entrare in chat",
+
+  "cancel": "no",
+  "leave": "lascia",
+  "delete": "cancella",
+  "chat_leave_room": "Lascia la chat?",
+  "chat_delete_room": "Cancella la chat?",
+  "chat_deleted_by_creator": "Stanza di chat cancellata",
+
+  "contact": "Contatti",
+  "partners": "Partner",
+  "address": "Karditsis 1\nTrikala 421 31, Grecia",
+  "mona_info": "Il progetto MonA è l'acronimo del progetto Erasmus+ KA201 Museopedagogy and Augmented reality: Riconoscere i musei come spazi educativi, con codice: 2019-1-EL01-KA201-062965.\n\nIl nostro progetto intende avvicinare la cultura al pubblico più giovane e soprattutto al pubblico delle scuole attraverso la creazione di un programma educativo integrato fornito in quattro musei in Europa, utilizzando le moderne tecnologie, con particolare attenzione alla realtà aumentata e mista.\n\nIl progetto MonA spera di trasformare la visita scolastica al museo in un processo di apprendimento sorprendente, affascinante e divertente attraverso la pratica esperienziale e il gioco. Il target di riferimento è l'intera comunità scolastica, ma soprattutto i bambini, gli adolescenti e gli insegnanti nelle aree dei partner.\n\nIl consorzio del progetto è composto da 4 musei, 2 scuole, 2 università e 2 organizzazioni tecniche di 4 Paesi europei.",
+
+  "try_again": "Prova di nuovo"
+
+}

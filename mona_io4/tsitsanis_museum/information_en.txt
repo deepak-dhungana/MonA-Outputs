@@ -1,0 +1,11 @@
+{
+    "name" : "Tsitsanis Museum",
+
+    "description" : "An insight to the life and opus of a famous Greek Rebetiko singer and composer",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Trikala, Greece"
+}

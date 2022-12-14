@@ -1,0 +1,11 @@
+{
+    "name" : "Palazzo Lucarini Contemporary",
+
+    "description" : "A small and experimental Contemporary Art Center in the green heart of Italy",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/palazzolucarini/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Trevi, Italy"
+}

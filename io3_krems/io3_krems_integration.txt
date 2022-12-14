@@ -1,0 +1,45 @@
+1. A_step1.html
+---------------
+
+window.location.replace("./drawing/index.html");
+
+-------------------------------------------------------------------------------------
+
+2. A_step2.html
+---------------
+
+// initializing the user drawn image
+document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("mona-user-drawn-image").src = localStorage.karikatur;
+});
+
+
+<!-- asset declaration under <a-asset> tag -->
+<img id="mona-user-drawn-image" src="" />
+
+<!-- Player Image -->
+<a-image src="#mona-user-drawn-image" position="0 0 0" scale="2.5 2.5 2.5"></a-image>
+
+
+-------------------------------------------------------------------------------------
+
+3. B_step1.html
+---------------
+
+window.location.replace("./picture/index.html");
+
+-------------------------------------------------------------------------------------
+
+4. B_step2.html
+---------------
+
+window.location.replace("./bubble/index.html");
+
+-------------------------------------------------------------------------------------
+
+5. C_step1.html
+---------------
+
+window.location.replace("./video/index.html");
+
+-------------------------------------------------------------------------------------

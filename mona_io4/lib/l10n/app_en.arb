@@ -1,0 +1,62 @@
+{
+    "language": "English",
+
+    "museums": "Museums",
+    "downloads": "Downloads",
+    "chat": "Chat",
+    "about": "About",
+
+    "virtual_tour": "Virtual Tour",
+    "ar_game": "AR Game",
+    "museums_error": "Error retrieving museum data",
+
+    "download": "Download",
+    "read": "Read",
+    "loading_document": "Loading document",
+    "document_open_error": "An error occurred while opening the document",
+    "downloads_error": "An error occurred while retrieving documents",
+
+
+    "chat_init_txt_1": "Explore The Museums Together",
+    "chat_init_txt_2": "Create or join a chat room to chat with others",
+    "chat_init_join_btn": "Join Room",
+    "chat_init_create_btn": "Create Room",
+
+    "chat_cj_username": "Username",
+    "chat_cj_enter_ur_name": "Enter your name",
+    "chat_cj_username_error1": "Username cannot be empty",
+    "chat_cj_username_error2": "Name cannot be more than 8 characters long",
+
+    "chat_create_room_name": "Room name",
+    "chat_create_enter_room_name": "Enter chat room name",
+    "chat_create_room_name_error1": "Room name cannot be empty",
+    "chat_create_room_name_error2": "Room name cannot be more than 12 characters long",
+
+    "chat_create_btn": "Create",
+    "chat_create_error": "Error creating chat room",
+
+    "chat_join_room_id": "Room ID",
+    "chat_join_btn": "Join",
+    "chat_join_error1": "Invalid room ID",
+    "chat_join_error2": "No chat room is associated with the given room ID",
+    "chat_join_error3": "Error joining chat room",
+
+    "cancel": "cancel",
+    "leave": "leave",
+    "delete": "delete",
+    "chat_leave_room": "Leave room?",
+    "chat_delete_room": "Delete room?",
+    "chat_deleted_by_creator": "Chat room deleted",
+
+
+    "contact": "Contact",
+    "partners": "Partners",
+    "address": "Karditsis 1\nTrikala 421 31, Greece",
+    "mona_info": "The MonA project is the acronym for Erasmus+ project KA201 Museopedagogy and Augmented Reality: Recognizing museums as educational spaces with code: 2019-1-EL01-KA201-062965.\n\nOur project intends to bring culture closer to the younger audience and especially the school audience through the creation of an integrated educational program provided in four museums in Europe using modern technology with emphasis on augmented and mixed reality.\n\nMonA project hopes to turn the school visit to the museum into a stunning, charming and enjoyable learning process through experiential practice and play. The target audience is the whole school community, but mainly focusing on children, teenagers and teachers in the areas of the partners.\n\nThe consortium of the project consists of 4 museums, 2 schools, 2 universities and 2 technical organizations from 4 European countries.",
+
+    "try_again": "Try Again",
+
+
+    "ar_warning1": "• Always ask a grown-up before playing the AR game. Watch out for other people while playing and be aware of your surroundings.",
+    "ar_warning2": "• Parents and teachers please note: there is a tendency to loose awareness of the surroundings whilst playing an AR game. Please, make sure the children under your supervision is playing the AR game safely."
+}

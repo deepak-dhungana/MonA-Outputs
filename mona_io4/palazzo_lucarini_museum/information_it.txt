@@ -1,0 +1,11 @@
+{
+    "name" : "Palazzo Lucarini Arte Contemporanea",
+
+    "description" : "Un piccolo e sperimentale centro d'arte contemporanea nel cuore verde d'Italia",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/palazzolucarini/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Trevi, Italia"
+}

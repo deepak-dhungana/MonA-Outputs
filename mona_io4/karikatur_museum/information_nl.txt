@@ -1,0 +1,11 @@
+{
+    "name" : "Karikaturmuseum Krems",
+
+    "description" : "Een wereld van humor en satire: ontdek Oostenrijks unieke museum voor karikatuur- en tekenfilmkunst!",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/kunstmeile-krems/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Krems, Oostenrijk"
+}

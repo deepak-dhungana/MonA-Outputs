@@ -1,0 +1,62 @@
+{
+  "language": "Deutsch",
+
+  "museums": "Museen",
+  "downloads": "Downloads",
+  "chat": "Chatten",
+  "about": "Über",
+
+  "virtual_tour": "Virtuelle Tour",
+  "ar_game": "AR-Spiel",
+  "museums_error": "Fehler beim Abrufen der Museumsdaten",
+
+  "download": "herunterladen",
+  "read": "lesen",
+  "loading_document": "Dokument wird geladen",
+  "document_open_error": "Beim Öffnen des Dokuments ist ein Fehler aufgetreten",
+  "downloads_error": "Beim Abrufen von Dokumenten ist ein Fehler aufgetreten",
+
+  "chat_init_txt_1": "Gemeinsam die Museen erkunden",
+  "chat_init_txt_2": "Erstellen Sie einen Chatroom oder treten Sie einem bei, um mit anderen zu chatten",
+  "chat_init_join_btn": "Im Chatraum teilnehmen",
+  "chat_init_create_btn": "Chatraum erstellen",
+
+  "chat_cj_username": "Benutzername",
+  "chat_cj_enter_ur_name": "Ihr Name eingeben",
+  "chat_cj_username_error1": "Der Benutzername darf nicht leer sein",
+  "chat_cj_username_error2": "Name darf nicht länger als 8 Zeichen sein",
+
+  "chat_create_room_name": "Raumname",
+  "chat_create_enter_room_name": "Raumname eingeben",
+  "chat_create_room_name_error1": "Der Raumname darf nicht leer sein",
+  "chat_create_room_name_error2": "Der Raumname darf nicht länger als 12 Zeichen sein",
+
+  "chat_create_btn": "Chatraum erstellen",
+  "chat_create_error": "Fehler beim Erstellen des Chatrooms",
+
+  "chat_join_room_id": "Raum-ID",
+  "chat_join_btn": "teilnehmen",
+
+  "chat_join_error1": "Ungültige Raum-ID",
+  "chat_join_error2": "Mit der angegebenen Raum-ID ist kein Chatraum verknüpft",
+  "chat_join_error3": "Fehler bei der Teilnahme am Chatroom",
+
+  "cancel": "abbrechen",
+  "leave": "verlassen",
+  "delete": "löschen",
+  "chat_leave_room": "Chatraum verlassen?",
+  "chat_delete_room": "Chatraum löschen?",
+  "chat_deleted_by_creator": "Chatraum gelöscht",
+
+
+  "contact": "Kontakt",
+  "partners": "Partner",
+  "address": "Karditsis 1\nTrikala 421 31, Griechenland",
+  "mona_info": "MonA ist das Akronym für das Erasmus + Projekt KA201 \"Museumspädagogik und Augmented Reality: Anerkennung von Museen als Bildungsräume\" mit dem Code: 2019-1-EL01-KA201-062965. Das Projekt zielt darauf, Kultur einem jüngeren Publikum – besonders Schüler*innen – durch die Entwicklung von integrierten Vermittlungsangeboten in vier Museen in Europa näher zu bringen. Der Fokus liegt auf der Verwendung moderner Technologien mit Schwerpunkt auf Augmented Reality (AR) und Mixed Reality (MR).\n\nMonA möchte den Schulbesuch im Museum durch neue experimentelle Anwendungen und Spiele in einen atemberaubenden, charmanten und unterhaltsamen Lernprozess verwandeln. Die Zielgruppe des Projektes ist die gesamte Schulgemeinschaft, wobei der Fokus auf Schüler*innen, Jugendlichen und Lehrenden in den Umgebung der Partner liegt. Das Konsortium des Projekts besteht aus vier Museen, zwei Schulen, zwei Universitäten und zwei technischen Einrichtungen aus vier europäischen Ländern.",
+
+  "try_again": "Erneut versuchen",
+
+  "ar_warning1": "• Frage immer einen Erwachsenen, bevor du das AR-Spiel spielst. Achte beim Spielen auf andere Personen und sei dir deiner Umgebung bewusst. Halte zu den Kunstwerken einen Abstand von 50cm.",
+  "ar_warning2": "• Eltern und Lehrende beachten bitte: Es ist möglich, dass sich Kinder beim Spielen eines AR-Spiels weniger ihrer Umgebung bewusst sind. Achten Sie darauf, dass die Kinder, die unter Ihrer Aufsicht stehen, die Hausordnung befolgen, auf ihre Umgebung und andere Museumsbesucher*innen achten und den Mindestabstand von 50cm zu Kunstwerken einhalten."
+
+}

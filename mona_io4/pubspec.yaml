@@ -1,0 +1,101 @@
+name: mona
+description: "Museopedagogy and Augmented Reality: Recognizing museums as educational spaces."
+
+publish_to: 'none'
+
+version: 1.0.1+4
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+
+
+  # For value based equality checking
+  equatable: ^2.0.3
+
+  # For State Management
+  provider: ^6.0.1
+
+  bloc: ^8.0.1
+  flutter_bloc: ^8.0.0
+
+  # FireBase
+  firebase_core: ^1.10.2
+
+  firebase_auth: ^3.3.0
+  cloud_firestore: ^3.1.1
+
+  # For making http requests
+  http: ^0.13.4
+
+  # Smooth page indicator
+  smooth_page_indicator: ^1.0.0+2
+
+  # Custom-Tab
+  url_launcher: ^6.0.17
+
+  # For rendering PDF
+  native_pdf_view: ^5.0.0
+
+  # For sharing PDF
+  share_plus: ^3.0.4
+
+  # For accessing the device folder location
+  path_provider: ^2.0.8
+
+  # For requesting permission
+  permission_handler: ^8.3.0
+
+  # Cross-Platform HTML
+  universal_html: ^2.0.8
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  generate: true
+
+  uses-material-design: true
+
+  assets:
+    - assets/flags/
+    - assets/images/
+    - assets/partners_logo/
+    - assets/chat_background/
+    - assets/screen_background/
+
+
+  fonts:
+    - family: cera-gr-regular
+      fonts:
+        - asset: fonts/cera-gr-regular.otf
+
+    - family: cera-gr-medium
+      fonts:
+        - asset: fonts/cera-gr-medium.otf
+
+    - family: cera-gr-bold
+      fonts:
+        - asset: fonts/cera-gr-bold.otf
+
+    - family: cera-gr-black
+      fonts:
+        - asset: fonts/cera-gr-black.otf
+
+    - family: roboto-mono-medium
+      fonts:
+        - asset: fonts/roboto-mono-medium.ttf

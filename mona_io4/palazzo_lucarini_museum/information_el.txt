@@ -1,0 +1,11 @@
+{
+    "name" : "Μουσείο Σύγχρονης Τέχνης Palazzo Lucarini",
+
+    "description" : "Ένα μικρό και πειραματικό Κέντρο Σύγχρονης Τέχνης στην καρδιά του πράσινου τοπίου της Ιταλίας",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/palazzolucarini/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Τρέβι, Ιταλία"
+}

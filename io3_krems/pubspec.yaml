@@ -1,0 +1,58 @@
+name: io3_krems
+description: IO3 Game
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # package for object comparison
+  #equatable: ^2.0.3
+
+  # packages for state management
+  #bloc: ^7.2.1
+  #flutter_bloc: ^7.3.3
+
+  # P5 - Drawing Plugin
+  p5: ^0.0.5
+
+  # gesture_x_detector: ^1.0.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+# - assets/text_bubbles/
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
+
+  fonts:
+    - family: cera-gr-regular
+      fonts:
+        - asset: fonts/cera-gr-regular.otf
+
+    - family: cera-gr-medium
+      fonts:
+        - asset: fonts/cera-gr-medium.otf
+
+    - family: cera-gr-bold
+      fonts:
+        - asset: fonts/cera-gr-bold.otf

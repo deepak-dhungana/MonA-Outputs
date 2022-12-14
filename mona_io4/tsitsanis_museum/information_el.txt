@@ -1,0 +1,11 @@
+{
+    "name" : "Μουσείο Βασίλη Τσιτσάνη",
+
+    "description" : "Μια ιδέα για τη ζωή και το έργο ενός διάσημου Έλληνα τραγουδιστή και συνθέτη ρεμπέτικης μουσικής",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Τρίκαλα, Ελλάδα"
+}

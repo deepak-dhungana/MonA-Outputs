@@ -1,0 +1,11 @@
+{
+    "name" : "NEMO Science Museum",
+
+    "description" : "Ontdek, doe, ervaar en leer over de wereld om je heen!",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/nemo/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Amsterdam, Nederland"
+}

@@ -1,0 +1,11 @@
+{
+    "name" : "Μουσείο Καρικατούρας Krems",
+
+    "description" : "Ένας κόσμος με χιούμορ και σάτιρα: Ανακαλύψτε το μοναδικό Αυστριακό μουσείο καρικατούρας και τέχνης κινούμενων σχεδίων!",
+
+    "vr_tour_url" : "https://www.monaproject.eu/virtualtour/kunstmeile-krems/",
+
+    "game_url" : "https://stemkoski.github.io/AR-Examples/hello-cube.html",
+
+    "location" : "Krems, Αυστρία"
+}
